@@ -1,1 +1,0 @@
-Angualar 2 Application based on V^2.0.0-rc.6
